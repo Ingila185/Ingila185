@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and contributing to open source software.
 - 🌱 I’m currently learning AWS Lambda AWS Dynamo DB and AWS Amplify.
 - 💞️ I’m looking to collaborate on Python, Typescript and Javascript projects.
-- 📫 How to reach me https://next-js-portfolio-git-main-ingila185.vercel.app/
+- 📫 How to reach me [here](https://next-js-portfolio-two-ebon.vercel.app/en)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I ilke to travel
 
