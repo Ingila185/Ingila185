@@ -27,17 +27,13 @@
 
 - ⚡ Fun fact **I learned Angular when I was hired as a Java Developer.**
 
-### Blogs posts
+### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Monorepos with Nx: Why You Might Want a Single Home for All Your Code](https://dev.to/this-is-learning/monorepos-with-nx-why-you-might-want-a-single-home-for-all-your-code-2hka)
 - [Leveraging Django 5.1.1 and PostgreSQL 16 for an Efficient Geo-Targeted Rating API](https://dev.to/this-is-learning/leveraging-django-511-and-postgresql-16-for-an-efficient-geo-targeted-rating-api-58hf)
 - [Building and Serving Angular Applications Across Environments with environment.ts &lpar;Angular 15+&rpar;](https://dev.to/this-is-angular/building-and-serving-angular-applications-across-environments-with-environmentts-angular-15-6dk)
 - [Angular 18.2: Enhanced Template Syntax and Streamlined Migrations](https://dev.to/this-is-angular/angular-182-enhanced-template-syntax-and-streamlined-migrations-30c3)
 - [Cracking the LeetCode 122. Best Time to Buy and Sell Stock II](https://dev.to/this-is-learning/cracking-the-leetcode-122-best-time-to-buy-and-sell-stock-ii-17k5)
-<!-- BLOG-POST-LIST:END -->
-
-### Medium.com Blog posts
-<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
