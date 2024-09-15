@@ -1,3 +1,6 @@
+
+<img src="https://github.com/Ingila185/Ingila185/blob/main/i18n.gif" alt="Full Stack developer ">
+
 - 👋 Hi, I’m Ingila
 - 👀 I’m interested in learning and contributing to open source software.
 - 🌱 I’m currently learning AWS Lambda AWS Dynamo DB and AWS Amplify.
