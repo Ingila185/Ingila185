@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Django, AWS, GCP**
 
-- 👨‍💻 All of my projects are available at [https://next-js-portfolio-two-ebon.vercel.app/en](my portfolio.)
+- 👨‍💻 All of my projects are available at https://next-js-portfolio-two-ebon.vercel.app/en
 
 - 📝 I regularly write articles on [https://medium.com/@ingila185](https://medium.com/@ingila185)
 
