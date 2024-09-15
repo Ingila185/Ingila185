@@ -1,3 +1,4 @@
+[![Latest blog post workflow](https://github.com/Ingila185/Ingila185/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ingila185/Ingila185/actions/workflows/blog-post-workflow.yml)
 
 <img src="https://github.com/Ingila185/Ingila185/blob/main/i18n2.gif" alt="Full Stack developer ">
 
