@@ -29,11 +29,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Monorepos with Nx: Why You Might Want a Single Home for All Your Code](https://dev.to/this-is-learning/monorepos-with-nx-why-you-might-want-a-single-home-for-all-your-code-2hka)
-- [Leveraging Django 5.1.1 and PostgreSQL 16 for an Efficient Geo-Targeted Rating API](https://dev.to/this-is-learning/leveraging-django-511-and-postgresql-16-for-an-efficient-geo-targeted-rating-api-58hf)
-- [Building and Serving Angular Applications Across Environments with environment.ts &lpar;Angular 15+&rpar;](https://dev.to/this-is-angular/building-and-serving-angular-applications-across-environments-with-environmentts-angular-15-6dk)
-- [Angular 18.2: Enhanced Template Syntax and Streamlined Migrations](https://dev.to/this-is-angular/angular-182-enhanced-template-syntax-and-streamlined-migrations-30c3)
-- [Cracking the LeetCode 122. Best Time to Buy and Sell Stock II](https://dev.to/this-is-learning/cracking-the-leetcode-122-best-time-to-buy-and-sell-stock-ii-17k5)
+- [Monorepos with Nx: Why You Might Want a Single Home for All Your Code](https://medium.com/@ingila185/monorepos-with-nx-why-you-might-want-a-single-home-for-all-your-code-8f46227a77e9?source=rss-bf13c92cf145------2)
+- [Building and Serving Angular Applications Across Environments with environment.ts &lpar;Angular 15+&rpar;](https://medium.com/@ingila185/building-and-serving-angular-applications-across-environments-with-environment-ts-angular-15-ddcb90666ee7?source=rss-bf13c92cf145------2)
+- [Angular 18.2: Enhanced Template Syntax and Streamlined Migrations](https://medium.com/@ingila185/angular-18-2-enhanced-template-syntax-and-streamlined-migrations-12c35fec2829?source=rss-bf13c92cf145------2)
+- [Safely Experiment with Angular 18: A Guide for Developers with Existing 16 &amp; 17 Projects](https://medium.com/@ingila185/safely-experiment-with-angular-18-a-guide-for-developers-with-existing-16-17-projects-eb35c0732c4f?source=rss-bf13c92cf145------2)
+- [Effortless Theme Toggling in Angular 17 Standalone Apps with PrimeNG](https://medium.com/@ingila185/effortless-theme-toggling-in-angular-17-standalone-apps-with-primeng-1c65b949b034?source=rss-bf13c92cf145------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
