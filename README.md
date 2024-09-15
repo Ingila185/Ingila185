@@ -35,6 +35,11 @@
 - [Building and Serving Angular Applications Across Environments with environment.ts &lpar;Angular 15+&rpar;](https://dev.to/this-is-angular/building-and-serving-angular-applications-across-environments-with-environmentts-angular-15-6dk)
 <!-- BLOG-POST-LIST:END -->
 
+### Medium.com Blog posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ingila185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ingila185" height="30" width="40" /></a>
