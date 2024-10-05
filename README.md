@@ -29,11 +29,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular 18: Improving application Performance with Partial Hydration and SSR](https://medium.com/@ingila185/angular-18-improving-application-performance-with-partial-hydration-and-ssr-c0d077ac4331?source=rss-bf13c92cf145------2)
 - [Evolution of Change Detection from Angular 2 &lpar;zone.js&rpar; to Angular 18 &lpar;zoneless&rpar;](https://medium.com/@ingila185/evolution-of-change-detection-from-angular-2-zone-js-to-angular-18-zoneless-321cb9fafad1?source=rss-bf13c92cf145------2)
 - [Monorepos with Nx: Why You Might Want a Single Home for All Your Code](https://medium.com/@ingila185/monorepos-with-nx-why-you-might-want-a-single-home-for-all-your-code-8f46227a77e9?source=rss-bf13c92cf145------2)
 - [Building and Serving Angular Applications Across Environments with environment.ts &lpar;Angular 15+&rpar;](https://medium.com/@ingila185/building-and-serving-angular-applications-across-environments-with-environment-ts-angular-15-ddcb90666ee7?source=rss-bf13c92cf145------2)
 - [Angular 18.2: Enhanced Template Syntax and Streamlined Migrations](https://medium.com/@ingila185/angular-18-2-enhanced-template-syntax-and-streamlined-migrations-12c35fec2829?source=rss-bf13c92cf145------2)
-- [Safely Experiment with Angular 18: A Guide for Developers with Existing 16 &amp; 17 Projects](https://medium.com/@ingila185/safely-experiment-with-angular-18-a-guide-for-developers-with-existing-16-17-projects-eb35c0732c4f?source=rss-bf13c92cf145------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
