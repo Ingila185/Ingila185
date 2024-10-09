@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ingila185" alt="ingila185" /></a> </p>
 
-- 🔭 I’m currently working on [Nx and Angular 18](https://github.com/Ingila185/ng-bank)
+- 🔭 I’m currently working on [Nx and Angular 18](https://github.com/Ingila185/ng-bank) and also [Algorithms Specialization from Stanford University](https://www.coursera.org/specializations/algorithms)
 
 - 🌱 I’m currently learning **Vue, Nest.js, Java Spring, GraphQL, Appwrite**
 
