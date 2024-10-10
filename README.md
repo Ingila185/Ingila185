@@ -27,7 +27,11 @@
 
 - ⚡ Fun fact **I learned Angular when I was hired as a Java Developer.**
 
-### Latest Blogs posts
+### My journey in a podcast 🎤
+
+[![Ingila Ejaz A full stack develoepr from Pakistan](https://github.com/Ingila185/Ingila185/blob/main/IngilaEjaz.png)](https://www.youtube.com/watch?v=gUqVzm8hep0)
+
+### Latest Blogs posts 📖
 <!-- BLOG-POST-LIST:START -->
 - [Angular 18: Improving application Performance with Partial Hydration and SSR](https://medium.com/@ingila185/angular-18-improving-application-performance-with-partial-hydration-and-ssr-c0d077ac4331?source=rss-bf13c92cf145------2)
 - [Evolution of Change Detection from Angular 2 &lpar;zone.js&rpar; to Angular 18 &lpar;zoneless&rpar;](https://medium.com/@ingila185/evolution-of-change-detection-from-angular-2-zone-js-to-angular-18-zoneless-321cb9fafad1?source=rss-bf13c92cf145------2)
