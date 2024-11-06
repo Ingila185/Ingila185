@@ -33,11 +33,11 @@
 
 ### Latest Blogs posts 📖
 <!-- BLOG-POST-LIST:START -->
+- [Angular 19 — Streamlining Data Retrieval with Experimental Resource and rxResource APIs](https://medium.com/@ingila185/angular-19-streamlining-data-retrieval-with-experimental-resource-and-rxresource-apis-3664773d986b?source=rss-bf13c92cf145------2)
 - [Angular 19 — linkedSignal Deep Dive](https://medium.com/@ingila185/angular-19-linkedsignal-deep-dive-c7be699420c9?source=rss-bf13c92cf145------2)
 - [Understanding Core Web Vitals — LCP, INP and CLS](https://medium.com/@ingila185/understanding-core-web-vitals-lcp-inp-and-cls-bd4577f92ba6?source=rss-bf13c92cf145------2)
 - [Angular 18: Improving application Performance with Partial Hydration and SSR](https://medium.com/@ingila185/angular-18-improving-application-performance-with-partial-hydration-and-ssr-c0d077ac4331?source=rss-bf13c92cf145------2)
 - [Evolution of Change Detection from Angular 2 &lpar;zone.js&rpar; to Angular 18 &lpar;zoneless&rpar;](https://medium.com/@ingila185/evolution-of-change-detection-from-angular-2-zone-js-to-angular-18-zoneless-321cb9fafad1?source=rss-bf13c92cf145------2)
-- [Monorepos with Nx: Why You Might Want a Single Home for All Your Code](https://medium.com/@ingila185/monorepos-with-nx-why-you-might-want-a-single-home-for-all-your-code-8f46227a77e9?source=rss-bf13c92cf145------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
