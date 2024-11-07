@@ -34,8 +34,8 @@
 ### Latest Blogs posts 📖
 <!-- BLOG-POST-LIST:START -->
 - [Angular 19–5 Game-Changing Features You Need to Know](https://medium.com/@ingila185/angular-19-5-game-changing-features-you-need-to-know-8959f842163e?source=rss-bf13c92cf145------2)
-- [Angular 19 — Streamlining Data Retrieval with Experimental Resource and rxResource APIs](https://medium.com/@ingila185/angular-19-streamlining-data-retrieval-with-experimental-resource-and-rxresource-apis-3664773d986b?source=rss-bf13c92cf145------2)
-- [Angular 19 — linkedSignal Deep Dive](https://medium.com/@ingila185/angular-19-linkedsignal-deep-dive-c7be699420c9?source=rss-bf13c92cf145------2)
+- [Angular 19 — Streamlining Data Retrieval with Experimental Resource and rxResource APIs](https://javascript.plainenglish.io/angular-19-streamlining-data-retrieval-with-experimental-resource-and-rxresource-apis-3664773d986b?source=rss-bf13c92cf145------2)
+- [Angular 19 — linkedSignal Deep Dive](https://javascript.plainenglish.io/angular-19-linkedsignal-deep-dive-c7be699420c9?source=rss-bf13c92cf145------2)
 - [Understanding Core Web Vitals — LCP, INP and CLS](https://medium.com/@ingila185/understanding-core-web-vitals-lcp-inp-and-cls-bd4577f92ba6?source=rss-bf13c92cf145------2)
 - [Angular 18: Improving application Performance with Partial Hydration and SSR](https://medium.com/@ingila185/angular-18-improving-application-performance-with-partial-hydration-and-ssr-c0d077ac4331?source=rss-bf13c92cf145------2)
 <!-- BLOG-POST-LIST:END -->
