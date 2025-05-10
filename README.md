@@ -33,11 +33,11 @@
 
 ### Latest Blogs posts 📖
 <!-- BLOG-POST-LIST:START -->
+- [Building a RESTful Image API with Django, Elasticsearch, JWT, and Rate Limiting](https://medium.com/@ingila185/building-a-restful-image-api-with-django-elasticsearch-jwt-and-rate-limiting-c8cb33d3d3da?source=rss-bf13c92cf145------2)
 - [Level Up Your DRF API: Pagination, Throttling, and Token Authentication &lpar;Function-Based Views&rpar;](https://medium.com/@ingila185/level-up-your-drf-api-pagination-throttling-and-token-authentication-function-based-views-1f219d08c648?source=rss-bf13c92cf145------2)
 - [NestJS: A Progressive Node.js Framework for Building Robust Server-Side Applications](https://blog.stackademic.com/nestjs-a-progressive-node-js-framework-for-building-robust-server-side-applications-e7b3b93b6fd3?source=rss-bf13c92cf145------2)
 - [2024 and My Journey to Technical Growth: Sharing Knowledge to Empower Developers](https://javascript.plainenglish.io/2024-and-my-journey-to-technical-growth-sharing-knowledge-to-empower-developers-8b3867fd547e?source=rss-bf13c92cf145------2)
 - [Cracking the FAANG Code: My 2024 Google Interview Journey &amp; Takeaways &lpar;with Actionable Tips!&rpar;](https://javascript.plainenglish.io/cracking-the-faang-code-my-2024-google-interview-journey-takeaways-with-actionable-tips-a5c49444a84a?source=rss-bf13c92cf145------2)
-- [Angular 19–5 Game-Changing Features You Need to Know](https://javascript.plainenglish.io/angular-19-5-game-changing-features-you-need-to-know-8959f842163e?source=rss-bf13c92cf145------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
