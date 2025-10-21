@@ -33,11 +33,11 @@
 
 ### Latest Blogs posts 📖
 <!-- BLOG-POST-LIST:START -->
+- [Architecting for Agility: Understanding Event-Driven Architectures &lpar;EDA&rpar;](https://medium.com/@ingila185/architecting-for-agility-understanding-event-driven-architectures-eda-4d3553df8bd9?source=rss-bf13c92cf145------2)
 - [Secure Airtable Integration: Mastering OAuth 2.0 PKCE with Node.js 22 and Angular 20](https://javascript.plainenglish.io/secure-airtable-integration-mastering-oauth-2-0-pkce-with-node-js-22-and-angular-20-c7c9c76e80fe?source=rss-bf13c92cf145------2)
 - [Building a RESTful Image API with Django, Elasticsearch, JWT, and Rate Limiting](https://medium.com/@ingila185/building-a-restful-image-api-with-django-elasticsearch-jwt-and-rate-limiting-c8cb33d3d3da?source=rss-bf13c92cf145------2)
 - [Level Up Your DRF API: Pagination, Throttling, and Token Authentication &lpar;Function-Based Views&rpar;](https://medium.com/@ingila185/level-up-your-drf-api-pagination-throttling-and-token-authentication-function-based-views-1f219d08c648?source=rss-bf13c92cf145------2)
 - [NestJS: A Progressive Node.js Framework for Building Robust Server-Side Applications](https://blog.stackademic.com/nestjs-a-progressive-node-js-framework-for-building-robust-server-side-applications-e7b3b93b6fd3?source=rss-bf13c92cf145------2)
-- [2024 and My Journey to Technical Growth: Sharing Knowledge to Empower Developers](https://javascript.plainenglish.io/2024-and-my-journey-to-technical-growth-sharing-knowledge-to-empower-developers-8b3867fd547e?source=rss-bf13c92cf145------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
