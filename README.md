@@ -33,11 +33,11 @@
 
 ### Latest Blogs posts 📖
 <!-- BLOG-POST-LIST:START -->
+- [Profiling Your Monolith with GitHub Copilot’s Performance Agent](https://medium.com/@ingila185/profiling-your-monolith-with-github-copilots-performance-agent-73bb490f6fee?source=rss-bf13c92cf145------2)
 - [Coding with the Tides: My Seafaring Software Journey](https://medium.com/@ingila185/coding-with-the-tides-my-seafaring-software-journey-b817a8e4498c?source=rss-bf13c92cf145------2)
 - [Beyond the Current State: A Deep Dive into the Event Sourcing Pattern](https://medium.com/@ingila185/beyond-the-current-state-a-deep-dive-into-the-event-sourcing-pattern-0a1644a238b2?source=rss-bf13c92cf145------2)
 - [CQRS and Saga: The Essential Patterns for High-Performance Microservice](https://medium.com/@ingila185/cqrs-and-saga-the-essential-patterns-for-high-performance-microservice-4f23a09889b4?source=rss-bf13c92cf145------2)
 - [Architecting for Agility: Understanding Event-Driven Architectures &lpar;EDA&rpar;](https://medium.com/@ingila185/architecting-for-agility-understanding-event-driven-architectures-eda-4d3553df8bd9?source=rss-bf13c92cf145------2)
-- [Secure Airtable Integration: Mastering OAuth 2.0 PKCE with Node.js 22 and Angular 20](https://javascript.plainenglish.io/secure-airtable-integration-mastering-oauth-2-0-pkce-with-node-js-22-and-angular-20-c7c9c76e80fe?source=rss-bf13c92cf145------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
