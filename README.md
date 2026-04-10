@@ -33,11 +33,11 @@
 
 ### Latest Blogs posts 📖
 <!-- BLOG-POST-LIST:START -->
+- [Why Your API Needs Rate Limiting &lpar;And How to Actually Code It&rpar;](https://medium.com/@ingila185/why-your-api-needs-rate-limiting-and-how-to-actually-code-it-bc86f2bcb29b?source=rss-bf13c92cf145------2)
 - [Profiling Your Monolith with GitHub Copilot’s Performance Agent](https://medium.com/@ingila185/profiling-your-monolith-with-github-copilots-performance-agent-73bb490f6fee?source=rss-bf13c92cf145------2)
 - [Coding with the Tides: My Seafaring Software Journey](https://medium.com/@ingila185/coding-with-the-tides-my-seafaring-software-journey-b817a8e4498c?source=rss-bf13c92cf145------2)
 - [Beyond the Current State: A Deep Dive into the Event Sourcing Pattern](https://medium.com/@ingila185/beyond-the-current-state-a-deep-dive-into-the-event-sourcing-pattern-0a1644a238b2?source=rss-bf13c92cf145------2)
 - [CQRS and Saga: The Essential Patterns for High-Performance Microservice](https://medium.com/@ingila185/cqrs-and-saga-the-essential-patterns-for-high-performance-microservice-4f23a09889b4?source=rss-bf13c92cf145------2)
-- [Architecting for Agility: Understanding Event-Driven Architectures &lpar;EDA&rpar;](https://medium.com/@ingila185/architecting-for-agility-understanding-event-driven-architectures-eda-4d3553df8bd9?source=rss-bf13c92cf145------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
