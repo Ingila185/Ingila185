@@ -33,11 +33,11 @@
 
 ### Latest Blogs posts 📖
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking True Vertical Scalability in .NET: Slashing API Latency from 10s to 3s on Azure AKS](https://medium.com/@ingila185/unlocking-true-vertical-scalability-in-net-slashing-api-latency-from-10s-to-3s-on-azure-aks-e4581efb7820?source=rss-bf13c92cf145------2)
 - [I Just Upgraded My Portfolio from Next.js 14 to Next.js 16 and Felt Like a Child Who Knows Nothing](https://javascript.plainenglish.io/i-just-upgraded-my-portfolio-from-next-js-14-to-next-js-16-and-felt-like-a-child-who-knows-nothing-886fca732c41?source=rss-bf13c92cf145------2)
 - [AI vs Generative AI vs Predictive AI vs Agentic AI](https://medium.com/@ingila185/ai-vs-generative-ai-vs-predictive-ai-vs-agentic-ai-f2864af86109?source=rss-bf13c92cf145------2)
 - [Why Your API Needs Rate Limiting &lpar;And How to Actually Code It&rpar;](https://medium.com/@ingila185/why-your-api-needs-rate-limiting-and-how-to-actually-code-it-bc86f2bcb29b?source=rss-bf13c92cf145------2)
 - [Profiling Your Monolith with GitHub Copilot’s Performance Agent](https://medium.com/@ingila185/profiling-your-monolith-with-github-copilots-performance-agent-73bb490f6fee?source=rss-bf13c92cf145------2)
-- [Coding with the Tides: My Seafaring Software Journey](https://medium.com/@ingila185/coding-with-the-tides-my-seafaring-software-journey-b817a8e4498c?source=rss-bf13c92cf145------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
